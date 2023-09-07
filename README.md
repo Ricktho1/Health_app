@@ -1,20 +1,5 @@
 <<<<<<< HEAD
 # expense_tracker
 
-A new Flutter project.
+Currently this project needs to be in the expense_tracker folder since all folders are imported using that local path. Other than that the project currently keeps track of the expenses and gives option to the users to add or remove expenses. WIll be implementing food items instead of expenses to add or remove.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Health_app
->>>>>>> 2737de7a2ca4d59107aaac49d4913677ff877018
